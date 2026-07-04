@@ -37,3 +37,7 @@ Laboratory language is useful, but the final feeling should be domestic, warm, a
 ## Preserve The Mystery
 
 The display should not explain itself too eagerly. Labels and interfaces should be restrained. A good specimen can carry a little ambiguity.
+
+## Living Archive
+
+The project can carry a quiet narrative layer: each plant as a catalogued specimen in a private living collection. Accession numbers, provenance, handwritten notes, and seasonal observations should deepen the object without turning it into overt set dressing.

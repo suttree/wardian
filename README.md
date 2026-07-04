@@ -34,6 +34,7 @@ Version 1 should be:
 ## Project Structure
 
 - [design-principles.md](design-principles.md) records the aesthetic and interaction principles that should guide future choices.
+- [narrative.md](narrative.md) captures the Archivist's desk / living archive layer.
 - [prototypes/001-single-specimen/brief.md](prototypes/001-single-specimen/brief.md) defines the first prototype.
 - [prototypes/001-single-specimen/materials.md](prototypes/001-single-specimen/materials.md) tracks the parts and materials for the first build.
 - [prototypes/001-single-specimen/observations.md](prototypes/001-single-specimen/observations.md) is the living log for what happens after setup.
